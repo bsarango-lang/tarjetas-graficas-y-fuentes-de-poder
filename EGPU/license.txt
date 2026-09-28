@@ -1,0 +1,11 @@
+Model Information:
+* title:	Oculink eGPU
+* source:	https://sketchfab.com/3d-models/oculink-egpu-56120f4fdd2d49139b40951ace5ee2c9
+* author:	Sinornithosaurus (https://sketchfab.com/Sinornithosaurus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Oculink eGPU" (https://sketchfab.com/3d-models/oculink-egpu-56120f4fdd2d49139b40951ace5ee2c9) by Sinornithosaurus (https://sketchfab.com/Sinornithosaurus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
