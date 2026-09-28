@@ -1,0 +1,11 @@
+Model Information:
+* title:	Intel Arc B580 Graphics Card
+* source:	https://sketchfab.com/3d-models/intel-arc-b580-graphics-card-3251ad158ee44a7e9802cb378b4d281a
+* author:	DavidWorks (https://sketchfab.com/DavidWorks)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Intel Arc B580 Graphics Card" (https://sketchfab.com/3d-models/intel-arc-b580-graphics-card-3251ad158ee44a7e9802cb378b4d281a) by DavidWorks (https://sketchfab.com/DavidWorks) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
